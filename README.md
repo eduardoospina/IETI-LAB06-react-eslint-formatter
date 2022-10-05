@@ -1,5 +1,10 @@
 # IETI-LAB06-react-eslint-formatter
 
+
+#AUTOR.
+
+    - Eduardo Ospina Mejia
+
 ## Part 1: VSCode
 
 ![](https://i.postimg.cc/QCTCfXYd/vs-code-lab-1.png)
